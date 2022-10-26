@@ -69,3 +69,9 @@ footer {
     font-style: italic;
 }
 
+form {
+    width: 100%;
+    padding: 12px 20x;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
